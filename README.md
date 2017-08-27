@@ -22,8 +22,8 @@ print s
 select * from table where foo=bar;
 
 ```
-```PHP
-echo this is php over;
+```php
+echo 'this is php over';
 
 ```
 
