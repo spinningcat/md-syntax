@@ -18,6 +18,10 @@ print s
     border:1px solid blac;
 }
 ```
+```sql
+select * from table where foo=bar;
+
+```
 
 
 
