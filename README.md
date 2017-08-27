@@ -22,10 +22,7 @@ print s
 select * from table where foo=bar;
 
 ```
-```php
-echo 'this is php over';
 
-```
 
 
 
