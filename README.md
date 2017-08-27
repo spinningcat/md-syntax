@@ -10,4 +10,14 @@ s = "Python syntax highlighting"
 print s
 ```
 
+```css
+.selector
+{
+    margin:0;
+    padding:0;
+    border:1px solid blac;
+}
+```
+
+
 
