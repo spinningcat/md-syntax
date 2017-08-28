@@ -1,28 +1,7 @@
 # md-syntax
 
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-```css
-.selector
-{
-    margin:0;
-    padding:0;
-    border:1px solid blac;
-}
-```
-```sql
-select * from table where foo=bar;
-
-```
-
-
-
+sometihn | other thing | another thing
+---| ---- | --
+item #1 | item 2 | item3
+text 1 | text 2 | text3
 
