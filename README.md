@@ -46,7 +46,7 @@ __underscores__
  ⋅⋅1 Ordered sublist item #1 
 * Ordered list item #4 
 
-[I'm an inline-style link](https://www.google.com)
+[Google](https://www.google.com)
 
 ![alt text](https://image.freepik.com/free-icon/github-character-silhouette_318-40485.jpg "Github")
 
